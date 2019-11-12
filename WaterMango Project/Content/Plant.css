@@ -1,0 +1,55 @@
+﻿.student-detail {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1rem;
+    color: grey;
+}
+
+.student-image-div {
+    display: flex;
+    justify-content: left;
+}
+
+.student-image {
+    width: 10rem;
+    height: 9rem;
+    padding: 0;
+    margin: 0;
+}
+
+.student-detail-expand {
+    text-decoration: none;
+    color: grey;
+}
+
+.flower-name {
+    font-family: sans;
+}
+
+.student-main {
+    border: 1px solid lightgrey;
+}
+
+.student-tag {
+    border-radius: 0.4rem;
+    border: 1px solid lightgrey;
+    background-color: rgba(230, 230, 230, 0.931);
+    font-size: 0.9rem;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-right: 0.2rem;
+}
+
+/* =========================== */
+.students-window {
+    background-color: white;
+    margin-top: 3rem;
+    height: 100rem;
+    overflow-y: auto;
+    border-radius: 0.8rem;
+}
+
+::-webkit-scrollbar {
+    width: 0px; /* Remove scrollbar space */
+    background: transparent; /* Optional: just make scrollbar invisible */
+}

@@ -1,0 +1,40 @@
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\WaterMango Project.Tests.dll.config
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\WaterMango Project.Tests.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\WaterMango Project.Tests.pdb
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\WaterMango Project.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\WaterMango Project.pdb
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\WaterMango Project.dll.config
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\obj\Debug\WaterMango Project.Tests.csprojAssemblyReference.cache
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\obj\Debug\WaterMango Project.Tests.csproj.CopyComplete
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\obj\Debug\WaterMango Project.Tests.dll
+C:\Users\boltt\Documents\Visual Studio 2019\Projects\WaterMango Project\WaterMango Project.Tests\obj\Debug\WaterMango Project.Tests.pdb

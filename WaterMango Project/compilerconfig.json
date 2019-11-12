@@ -1,0 +1,6 @@
+﻿[
+  {
+    "outputFile": "Scripts/plantSignalRControl.es5.js",
+    "inputFile": "Controllers/API/PlantsController.cs"
+  }
+]
